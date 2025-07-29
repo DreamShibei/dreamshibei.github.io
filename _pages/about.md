@@ -28,7 +28,6 @@ My research lies at the intersection of Computer Vision, Multimodal Large Langua
 Cooperation and discussion are welcomed. Feel free to drop me an email :)
 
 # 🔥 News
-# 🔥 News
 - *2025.07*: &nbsp;🎉 [StreamGait & MirrorGait]() is accepted by ACM MM'25!
 - *2025.06*: &nbsp;🎉 [OmniDiff & M<sup>3</sup>Diff](https://arxiv.org/abs/2503.11093) is accepted by ICCV'25! 
 - *2025.06*: &nbsp;🎉 [FastPoseGait & GPGait++](https://ieeexplore.ieee.org/abstract/document/11029177) is accepted by TPAMI'25! 
