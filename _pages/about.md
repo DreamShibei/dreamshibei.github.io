@@ -29,9 +29,9 @@ Cooperation and discussion are welcomed. Feel free to drop me an email :)
 
 # 🔥 News
 # 🔥 News
-- *2025.07*: &nbsp;🎉 [StreamGait \& MirrorGait]() is accepted by ACM MM'25!
-- *2025.06*: &nbsp;🎉 [OmniDiff \& M<sup>3</sup>Diff](https://arxiv.org/abs/2503.11093) is accepted by ICCV'25! 
-- *2025.06*: &nbsp;🎉 [FastPoseGait \& GPGait++](https://ieeexplore.ieee.org/abstract/document/11029177) is accepted by TPAMI'25! 
+- *2025.07*: &nbsp;🎉 [StreamGait & MirrorGait]() is accepted by ACM MM'25!
+- *2025.06*: &nbsp;🎉 [OmniDiff & M<sup>3</sup>Diff](https://arxiv.org/abs/2503.11093) is accepted by ICCV'25! 
+- *2025.06*: &nbsp;🎉 [FastPoseGait & GPGait++](https://ieeexplore.ieee.org/abstract/document/11029177) is accepted by TPAMI'25! 
 - *2024.07*: &nbsp;🎉 [GaitHeat](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04501.pdf) is accepted by ECCV'24! 
 - *2023.07*: &nbsp;🎉 [GPGait](https://openaccess.thecvf.com/content/ICCV2023/papers/Fu_GPGait_Generalized_Pose-based_Gait_Recognition_ICCV_2023_paper.pdf) is accepted by ICCV'23! 
 
