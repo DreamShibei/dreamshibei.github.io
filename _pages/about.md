@@ -21,7 +21,7 @@ redirect_from:
 
 Hi there!
 
-Welcome to Shibei Meng(孟诗蓓)'s website! I am a second-year M.S. student in Computer Science and Technology at Beijing Normal University, supervised by [Prof. Saihui Hou](https://housaihui.cn/) and [Prof. Yongzhen Huang](https://ai.bnu.edu.cn/xygk/szdw/zgj/bfed57e2f8fc4de2a6b370063517f801.htm). 
+Welcome to Shibei Meng(孟诗蓓)'s website! I am a second-year master's student in Computer Science and Technology at Beijing Normal University, supervised by [Prof. Saihui Hou](https://housaihui.cn/) and [Prof. Yongzhen Huang](https://ai.bnu.edu.cn/xygk/szdw/zgj/bfed57e2f8fc4de2a6b370063517f801.htm). 
 
 My research lies at the intersection of Computer Vision, Multimodal Large Language Models (MLLMs), and Video Understanding. 
 
