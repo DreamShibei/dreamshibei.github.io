@@ -87,6 +87,7 @@ We introduce GPGait, a framework designed to improve the generalization of pose-
 Yuan Liu, Saihui Hou, Saijie Hou, Jiabao Du, **Shibei Meng**, and Yongzhen Huang
 
 [[**Paper**]](https://arxiv.org/abs/2503.11093) 
+[[**Dataset (coming soon)**]]() 
 
 - **OmniDiff**: We construct OmniDiff, a high-quality dataset comprising 324 diverse scenarios, encompassing both real-world complex environments and 3D synthetic settings. 
 - **M<sup>3</sup>Diff**: We integrate a plug-and-play Multi-scale Differential Perception (MDP) Module into the MLLM architecture, establishing a strong base model specifically tailored for IDC.
