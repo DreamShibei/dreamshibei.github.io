@@ -43,9 +43,11 @@ Cooperation and discussion are welcomed. Feel free to drop me an email :)
 
 **Shibei Meng**, Saihui Hou, Yang Fu, Xuecai Hu, Junzhou Huang, and Yongzhen Huang
 
-[[**Paper (Coming Soon)**]]() 
+[[**Paper (coming soon)**]]() 
 [[**Code**]](https://github.com/BNU-IVC/StreamGait) 
-- **MirrorGait**: A self-supervised 3D-aware pre-training framework that lifts 2D poses to 3D for contrastive learning, achieving SOTA on Gait3D, GREW and OUMVLP-Pose with minimal fine-tuning.
+
+- We present MirrorGait, a self-supervised 3D-aware pre-training framework that lifts 2D poses to 3D for large-scale contrastive learning. Trained on curated data from 353 YouTube live-stream channels spanning 30 countries and 81 cities, our method achieves state-of-the-art results on Gait3D, GREW, and OUMVLP-Pose with minimal fine-tuning.
+
 </div>
 </div>
 
@@ -85,7 +87,6 @@ We introduce GPGait, a framework designed to improve the generalization of pose-
 Yuan Liu, Saihui Hou, Saijie Hou, Jiabao Du, **Shibei Meng**, and Yongzhen Huang
 
 [[**Paper**]](https://arxiv.org/abs/2503.11093) 
-[[**Dataset (Coming soon)**]]() 
 
 - **OmniDiff**: We construct OmniDiff, a high-quality dataset comprising 324 diverse scenarios, encompassing both real-world complex environments and 3D synthetic settings. 
 - **M<sup>3</sup>Diff**: We integrate a plug-and-play Multi-scale Differential Perception (MDP) Module into the MLLM architecture, establishing a strong base model specifically tailored for IDC.
