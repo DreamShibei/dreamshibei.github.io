@@ -21,14 +21,14 @@ redirect_from:
 
 Hi there!
 
-Welcome to Shibei Meng(孟诗蓓)'s website! I am a second-year master's student in Computer Science and Technology at Beijing Normal University, supervised by [Prof. Saihui Hou](https://housaihui.cn/) and [Prof. Yongzhen Huang](https://ai.bnu.edu.cn/xygk/szdw/zgj/bfed57e2f8fc4de2a6b370063517f801.htm). 
+Welcome to Shibei Meng(孟诗蓓)'s website! I am a third-year master's student in Computer Science and Technology at Beijing Normal University, supervised by [Prof. Saihui Hou](https://housaihui.cn/) and [Prof. Yongzhen Huang](https://ai.bnu.edu.cn/xygk/szdw/zgj/bfed57e2f8fc4de2a6b370063517f801.htm). 
 
 My research lies at the intersection of Computer Vision, Multimodal Large Language Models (MLLMs), and Video Understanding. 
 
 Cooperation and discussion are welcomed. Feel free to drop me an email :)
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉 [StreamGait & MirrorGait]() is accepted by ACM MM'25!
+- *2025.07*: &nbsp;🎉 [StreamGait & MirrorGait](https://dl.acm.org/doi/abs/10.1145/3746027.3755066) is accepted by ACM MM'25!
 - *2025.06*: &nbsp;🎉 [OmniDiff & M<sup>3</sup>Diff](https://arxiv.org/abs/2503.11093) is accepted by ICCV'25! 
 - *2025.06*: &nbsp;🎉 [FastPoseGait & GPGait++](https://ieeexplore.ieee.org/abstract/document/11029177) is accepted by TPAMI'25! 
 - *2024.07*: &nbsp;🎉 [GaitHeat](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04501.pdf) is accepted by ECCV'24! 
@@ -43,10 +43,10 @@ Cooperation and discussion are welcomed. Feel free to drop me an email :)
 
 **Shibei Meng**, Saihui Hou, Yang Fu, Xuecai Hu, Junzhou Huang, and Yongzhen Huang
 
-[[**Paper (coming soon)**]]() 
+[[**Paper**]](https://dl.acm.org/doi/abs/10.1145/3746027.3755066) 
 [[**Code**]](https://github.com/BNU-IVC/StreamGait) 
 
-- We present MirrorGait, a self-supervised 3D-aware pre-training framework that lifts 2D poses to 3D for large-scale contrastive learning. Trained on curated data from 353 YouTube live-stream channels spanning 30 countries and 81 cities, our method achieves state-of-the-art results on Gait3D, GREW, and OUMVLP-Pose with minimal fine-tuning.
+We present MirrorGait, a self-supervised 3D-aware pre-training framework that lifts 2D poses to 3D for large-scale contrastive learning. Trained on curated data from 353 YouTube live-stream channels spanning 30 countries and 81 cities, our method achieves state-of-the-art results on Gait3D, GREW, and OUMVLP-Pose with minimal fine-tuning.
 
 </div>
 </div>
@@ -117,8 +117,10 @@ We introduce a new method for gait recognition using heatmaps directly from upst
 - *2019.09 - 2023.07*, B.Eng. in Computer Science and Technology, School of Artificial Intelligence, Beijing Normal University. 
 
 # 🎖 Honors and Awards
+- National Scholarship, 2025.
 - First Prize in ACM MM'24 Multimodal Gait Recognition Challenge (Pose Track), 2024.
 - Outstanding Undergraduate of Beijing Normal University, 2023.
+- Excellent Undergraduate Thesis of Beijing Normal University, 2023.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
